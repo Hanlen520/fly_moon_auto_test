@@ -10,8 +10,8 @@
 
 地址、登录信息设置：见/config/config,ini
 
-打开方式：方法1. /start/dist目录下的exe文件
-        方法2. /start/TheWitcher4_AutoTest.py
+
+启动方法2. /start/TheWitcher4_AutoTest.py
 
 环境需求：chrome浏览器安装于默认路径
         非exe打开 需python36 and pip install selenium(理论上)
