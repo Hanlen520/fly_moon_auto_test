@@ -1,5 +1,5 @@
 # fly_moon_auto_test
-python3基于unittest，自动化ui测试框架
+python3基于unittest，自动化ui测试框架。参照了不少大神的代码，但具体有谁是真记不得了抱歉。。。。
 
 框架概括：配置信息/config
         公有类/public
