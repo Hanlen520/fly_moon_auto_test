@@ -1,0 +1,17 @@
+{
+  "test_car.py::Car01::test_car_2b": true,
+  "test_common.py::Common01::test_common_1a": true,
+  "test_common.py::Common01::test_common_2b": true,
+  "test_common.py::Common01::test_common_2d": true,
+  "test_different.py::Common01::test_common_2d": true,
+  "test_different.py::Different01::test_common_1b1": true,
+  "test_frequency.py::Frenquency01::test_frenquency_1d": true,
+  "test_group.py::Group01::test_group_1d": true,
+  "test_group.py::Group01::test_group_1g": true,
+  "test_group.py::Group01::test_group_1h2": true,
+  "test_locus.py::Locus01::test_locus_2a": true,
+  "test_locus.py::Locus01::test_locus_2d2": true,
+  "test_locus.py::Locus01::test_locus_2d4": true,
+  "test_locus.py::Locus01::test_locus_2g2": true,
+  "test_test.py::Test": true
+}

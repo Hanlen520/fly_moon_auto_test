@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/public/base_page.py" line="597" />
+    <bookmark url="file://$PROJECT_DIR$/public/base_page.py" line="605" />
+    <bookmark url="file://$PROJECT_DIR$/start/TheWitcher4_AutoTest.py" line="24" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46be2fb3-a96a-4f19-87b2-1b5cfc098e57" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="TheWitcher4_AutoTest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/start/TheWitcher4_AutoTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="e#15#48#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page_other.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pageobjects/page_other.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_common.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testsuits/test_common.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page_relation.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pageobjects/page_relation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page_different.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pageobjects/page_different.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1596">
+              <caret line="83" column="45" selection-start-line="83" selection-start-column="45" selection-end-line="83" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page_group.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pageobjects/page_group.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5481">
+              <caret line="268" column="76" selection-start-line="268" selection-start-column="76" selection-end-line="268" selection-end-column="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page_time.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pageobjects/page_time.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_group.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testsuits/test_group.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1764">
+              <caret line="90" column="26" selection-start-line="90" selection-start-column="26" selection-end-line="90" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page_wifi.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pageobjects/page_wifi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base_page.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/base_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11046">
+              <caret line="540" column="40" selection-start-line="540" selection-start-column="40" selection-end-line="540" selection-end-column="40" />
+              <folding>
+                <element signature="e#33#44#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>jishuanzujuan5</find>
+      <find>ziduan4_1</find>
+      <find>shuchu5</find>
+      <find>zer</find>
+      <find>shuchu</find>
+      <find>peizhi5</find>
+      <find>warning_</find>
+      <find>2g2</find>
+      <find>ziduan_1</find>
+      <find>search</find>
+      <find>chehui_1</find>
+      <find>ziduan2</find>
+      <find>compair</find>
+      <find>ziduan</find>
+      <find>peizhi1_6</find>
+      <find>chehui</find>
+      <find>1_7</find>
+      <find>com</find>
+      <find>preview1now =</find>
+      <find>//*[@id=&quot;app&quot;]/div[2]/nav/ul/li[6]/a</find>
+      <find>ji_preview</find>
+      <find>preview</find>
+      <find>pr</find>
+      <find>2b</find>
+      <find>pre</find>
+      <find>ul[2]</find>
+      <find>/html/body/div/div[2]/div[1]/div[3]/div/div/div[2]/div[2]/ul/li[2]</find>
+      <find>test_list</find>
+      <find>预览</find>
+      <find>peizhi1_2</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>driver.</replace>
+      <replace>print</replace>
+      <replace>L</replace>
+      <replace>relation.</replace>
+      <replace>ioper_11</replace>
+      <replace>频率分析</replace>
+      <replace>BasePage(self).no_warning_text()</replace>
+      <replace>BasePage(self).click_close_result()</replace>
+      <replace>BasePage(self).get_warning_img()</replace>
+      <replace>BasePage(self).get_windows_img()</replace>
+      <replace>BasePage(self).zero_text()</replace>
+      <replace>BasePage(self).warning_text()</replace>
+      <replace>BasePage(self).login()</replace>
+      <replace>ioper_12_1</replace>
+      <replace>BasePage.login(self)</replace>
+      <replace>BasePage.get_windows_img(self)</replace>
+      <replace>BasePage.warning_text(self)</replace>
+      <replace>BasePage.click_close_result(self)</replace>
+      <replace>BasePage.get_warning_img(self)</replace>
+      <replace>BasePage.no_warning_text(self)</replace>
+      <replace>BasePage.zero_text(self)</replace>
+      <replace>locus.</replace>
+      <replace>ioper_14_1</replace>
+      <replace>同wifi</replace>
+      <replace>wifi.</replace>
+      <replace>car.</replace>
+      <replace>1039</replace>
+      <replace>//*[@id=&quot;ioper_15_1_c&quot;]/button</replace>
+      <replace>ul[1]</replace>
+      <replace>//*[@id=&quot;pane-model&quot;]/ul/li[1]/span</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/start/readme.txt" />
+        <option value="$PROJECT_DIR$/public/browser_engine.py" />
+        <option value="$PROJECT_DIR$/public/logger.py" />
+        <option value="$PROJECT_DIR$/readme.txt" />
+        <option value="$PROJECT_DIR$/public/email_send.py" />
+        <option value="$PROJECT_DIR$/pageobjects/page_analysis.py" />
+        <option value="$PROJECT_DIR$/pageobjects/page_ frequency.py" />
+        <option value="$PROJECT_DIR$/testsuits/test_ frequency.py" />
+        <option value="$PROJECT_DIR$/public/HTMLTestRunner2.0.py" />
+        <option value="$PROJECT_DIR$/testsuits/test_combine.py" />
+        <option value="$PROJECT_DIR$/public/HTMLTestRunner1.0.py" />
+        <option value="$PROJECT_DIR$/testsuits/test_frequency.py" />
+        <option value="$USER_HOME$/Desktop/modle.py" />
+        <option value="$PROJECT_DIR$/pageobjects/group.py" />
+        <option value="$PROJECT_DIR$/pageobjects/page_test.py" />
+        <option value="$PROJECT_DIR$/testsuits/test_test.py" />
+        <option value="$PROJECT_DIR$/testsuits/233.py" />
+        <option value="$PROJECT_DIR$/public/HTMLTestRunner.py" />
+        <option value="$PROJECT_DIR$/testsuits/test_condition.py" />
+        <option value="$PROJECT_DIR$/testsuits/test_different.py" />
+        <option value="$PROJECT_DIR$/testsuits/test_filter.py" />
+        <option value="$PROJECT_DIR$/testsuits/test_group.py" />
+        <option value="$PROJECT_DIR$/testsuits/test_common.py" />
+        <option value="$PROJECT_DIR$/testsuits/test_relation.py" />
+        <option value="$PROJECT_DIR$/testsuits/test_wifi.py" />
+        <option value="$PROJECT_DIR$/testsuits/test_car.py" />
+        <option value="$PROJECT_DIR$/config/config.ini" />
+        <option value="$PROJECT_DIR$/public/base_page.py" />
+        <option value="$PROJECT_DIR$/testsuits/test_locus.py" />
+        <option value="$PROJECT_DIR$/pageobjects/page_time.ipynb" />
+        <option value="$PROJECT_DIR$/pageobjects/page_car.py" />
+        <option value="$PROJECT_DIR$/pageobjects/page_combine.py" />
+        <option value="$PROJECT_DIR$/pageobjects/page_component.py" />
+        <option value="$PROJECT_DIR$/pageobjects/page_condition.py" />
+        <option value="$PROJECT_DIR$/pageobjects/page_filter.py" />
+        <option value="$PROJECT_DIR$/pageobjects/page_frequency.py" />
+        <option value="$PROJECT_DIR$/pageobjects/page_locus.py" />
+        <option value="$PROJECT_DIR$/pageobjects/page_other.py" />
+        <option value="$PROJECT_DIR$/pageobjects/page_relation.py" />
+        <option value="$PROJECT_DIR$/pageobjects/page_time.py" />
+        <option value="$PROJECT_DIR$/pageobjects/page_wifi.py" />
+        <option value="$PROJECT_DIR$/pageobjects/page_different.py" />
+        <option value="$PROJECT_DIR$/pageobjects/page_group.py" />
+        <option value="$PROJECT_DIR$/start/TheWitcher4_AutoTest.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="auto_test_map" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto_test_map" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto_test_map" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto_test_map" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto_test_map" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto_test_map" type="462c0819:PsiDirectoryNode" />
+              <item name="pageobjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto_test_map" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto_test_map" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto_test_map" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto_test_map" type="462c0819:PsiDirectoryNode" />
+              <item name="start" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto_test_map" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto_test_map" type="462c0819:PsiDirectoryNode" />
+              <item name="testsuits" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="D:/pachong" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.TheWitcher4_AutoTest">
+    <configuration name="TheWitcher4_AutoTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="auto_test_map" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/start" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/start/TheWitcher4_AutoTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="py.test for test_group.Group01.test_group_1d" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="auto_test_map" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testsuits" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_group.Group01.test_group_1d&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="py.test for test_group.Group01.test_group_1e" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="auto_test_map" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testsuits" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_group.Group01.test_group_1e&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="py.test for test_group.Group01.test_group_1h2" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="auto_test_map" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testsuits" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_group.Group01.test_group_1h2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="py.test for test_relation.Relation01.test_common_2b" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="auto_test_map" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testsuits" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_relation.Relation01.test_common_2b&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.py.test for test_relation.Relation01.test_common_2b" />
+      <item itemvalue="Python.TheWitcher4_AutoTest" />
+      <item itemvalue="Python tests.py.test for test_group.Group01.test_group_1d" />
+      <item itemvalue="Python tests.py.test for test_group.Group01.test_group_1e" />
+      <item itemvalue="Python tests.py.test for test_group.Group01.test_group_1h2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.TheWitcher4_AutoTest" />
+        <item itemvalue="Python tests.py.test for test_group.Group01.test_group_1h2" />
+        <item itemvalue="Python tests.py.test for test_group.Group01.test_group_1e" />
+        <item itemvalue="Python tests.py.test for test_group.Group01.test_group_1d" />
+        <item itemvalue="Python tests.py.test for test_relation.Relation01.test_common_2b" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46be2fb3-a96a-4f19-87b2-1b5cfc098e57" name="Default" comment="" />
+      <created>1529487638686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529487638686</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="py_test_for_test_relation_Relation01_test_common_2b - 2018.08.06 at 16h 09m 43s.xml">
+      <configuration name="py.test for test_relation.Relation01.test_common_2b" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_group_Group01_test_group_1d - 2018.08.06 at 17h 03m 55s.xml">
+      <configuration name="py.test for test_group.Group01.test_group_1d" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_group_Group01_test_group_1e - 2018.08.06 at 17h 06m 03s.xml">
+      <configuration name="py.test for test_group.Group01.test_group_1e" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_group_Group01_test_group_1h2 - 2018.08.06 at 17h 07m 28s.xml">
+      <configuration name="py.test for test_group.Group01.test_group_1h2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_group_Group01_test_group_1h2 - 2018.08.06 at 17h 40m 50s.xml">
+      <configuration name="py.test for test_group.Group01.test_group_1h2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_group_Group01_test_group_1h2 - 2018.08.22 at 12h 34m 09s.xml">
+      <configuration name="py.test for test_group.Group01.test_group_1h2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_group_Group01_test_group_1d - 2018.09.11 at 16h 46m 09s.xml">
+      <configuration name="py.test for test_group.Group01.test_group_1d" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_group_Group01_test_group_1d - 2018.09.11 at 16h 46m 36s.xml">
+      <configuration name="py.test for test_group.Group01.test_group_1d" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_group_Group01_test_group_1e - 2018.09.11 at 16h 57m 44s.xml">
+      <configuration name="py.test for test_group.Group01.test_group_1e" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_group_Group01_test_group_1h2 - 2018.09.11 at 17h 01m 43s.xml">
+      <configuration name="py.test for test_group.Group01.test_group_1h2" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24358974" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.25742576" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22552255" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3943355" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32837406" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="30" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pageobjects/page_wifi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="42" selection-end-line="374" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuits/test_common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1843">
+          <caret line="97" column="36" lean-forward="true" selection-start-line="97" selection-start-column="36" selection-end-line="97" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuits/test_combine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5396">
+          <caret line="291" lean-forward="true" selection-start-line="291" selection-end-line="291" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuits/test_different.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4484">
+          <caret line="243" lean-forward="true" selection-start-line="28" selection-end-line="243" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuits/test_filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7600">
+          <caret line="408" column="23" lean-forward="true" selection-start-line="408" selection-start-column="23" selection-end-line="408" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/base_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8873">
+          <caret line="482" column="24" lean-forward="true" selection-start-line="482" selection-start-column="24" selection-end-line="482" selection-end-column="24" />
+          <folding>
+            <element signature="e#33#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start/readme.txt" />
+    <entry file="file://$PROJECT_DIR$/pageobjects/page_filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start/TheWitcher4_AutoTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="31" column="10" lean-forward="true" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuits/test_filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1102">
+          <caret line="66" column="38" lean-forward="true" selection-start-line="66" selection-start-column="38" selection-end-line="66" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start/readme.txt" />
+    <entry file="file://$PROJECT_DIR$/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="54" lean-forward="true" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/2018-07-06.log" />
+    <entry file="file://$PROJECT_DIR$/public/HTMLTestRunner1.0.py" />
+    <entry file="file://$PROJECT_DIR$/logs/2018-07-09.log" />
+    <entry file="file://$USER_HOME$/Desktop/modle.py" />
+    <entry file="file://$PROJECT_DIR$/pageobjects/page_test.py" />
+    <entry file="file://$PROJECT_DIR$/public/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="66" column="41" selection-start-line="66" selection-start-column="41" selection-end-line="66" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuits/233.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="77" selection-start-line="21" selection-start-column="77" selection-end-line="21" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuits/test_condition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="181" column="32" lean-forward="true" selection-start-line="181" selection-start-column="32" selection-end-line="181" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuits/test_different.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="161" column="22" selection-start-line="161" selection-start-column="22" selection-end-line="161" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuits/test_filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="77" column="31" selection-start-line="77" selection-start-column="31" selection-end-line="77" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuits/test_frequency.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="126" column="25" selection-start-line="126" selection-start-column="25" selection-end-line="126" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuits/test_wifi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="160" lean-forward="true" selection-start-line="160" selection-end-line="160" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuits/test_car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuits/test_locus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3402">
+          <caret line="168" column="20" selection-start-line="168" selection-start-column="20" selection-end-line="168" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuits/test_relation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3570">
+          <caret line="176" column="28" selection-start-line="176" selection-start-column="28" selection-end-line="176" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuits/test_combine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="34" column="41" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/page_time.ipynb" />
+    <entry file="file://$PROJECT_DIR$/public/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16443">
+          <caret line="788" column="21" selection-start-line="788" selection-start-column="12" selection-end-line="788" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/HTMLTestRunner2.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2164">
+          <caret line="199" column="51" selection-start-line="199" selection-start-column="22" selection-end-line="199" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/email_send.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="55" column="53" selection-start-line="55" selection-start-column="53" selection-end-line="55" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/browser_engine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/page_component.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/page_filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/page_locus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/page_condition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/page_combine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/page_car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/page_frequency.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/page_other.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/page_relation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/page_wifi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/base_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11046">
+          <caret line="540" column="40" selection-start-line="540" selection-start-column="40" selection-end-line="540" selection-end-column="40" />
+          <folding>
+            <element signature="e#33#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuits/test_common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/page_different.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1596">
+          <caret line="83" column="45" selection-start-line="83" selection-start-column="45" selection-end-line="83" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/page_group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5481">
+          <caret line="268" column="76" selection-start-line="268" selection-start-column="76" selection-end-line="268" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuits/test_group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1764">
+          <caret line="90" column="26" selection-start-line="90" selection-start-column="26" selection-end-line="90" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start/TheWitcher4_AutoTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#15#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/page_time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
